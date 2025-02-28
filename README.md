@@ -1,4 +1,4 @@
-| Comando Git | Xyms :) |
+| Comando Git | MH :) |
 |------------|------------|
 | `git clone` | 📥 Copia o repositório do GitHub para sua máquina local. |
 | `cd nome-repositorio` | 📂 Acessa a pasta do projeto após cloná-lo. |
